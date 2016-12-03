@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/Public/Documents/Unity Projects/Roll A Ball LIVE ME/Assets/_Scenes/Kitty-Lyft-deep-space-green-skybox.unity
+  isLoaded: 1
+  isActive: 1
